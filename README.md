@@ -1,9 +1,24 @@
-interested in ... c++, math, python, web dev, and ai
+interested in Math, Programming, and Machine Learning
 
 <details>
 <summary>Languages</summary>
   <br>
-  <ul> <li>C++ ![cpp](resources/cpplogo.png)</li> <li>Python ![python](resources/python.png)</li> <li>Web Dev ![webdev](resources/webdev.png)</li></ul>
+  <ul> 
+    <li>C++ 
+      
+  ![cpp](resources/cpp.png)
+  
+</li>
+   
+  <li>Python </li>
+    
+![python](resources/python.jpg)
+
+  <li>Web Dev </li>
+      
+![webdev](https://github.com/cmerino15/cmerino15/blob/main/resources/webdev.png) 
+      
+  </ul>
 </details>
 
 <!---
