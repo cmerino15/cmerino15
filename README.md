@@ -1,10 +1,12 @@
 # About Me 
+
 Interested in Math Education, Programming, and Machine Learning. Always looking to learn new things. 🙂
 
-***
 
 > [!NOTE]
 > I am a self taught programmer. So, take anything you see on this page with a grain of salt. There's probably a better way of doing something I've done. 
+
+***
 
 <details>
 <summary>Languages</summary>
